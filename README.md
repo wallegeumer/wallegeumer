@@ -6,7 +6,7 @@
 
 I build modern, responsive, and client-ready websites using **WordPress, Elementor, WooCommerce, HTML, CSS, JavaScript, and smart plugin integrations**.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Visitors&color=38bdf8&style=for-the-badge" alt="Profile Visitors" />
+<img src="https://komarev.com/ghpvc/?username=wallegeumer&label=Profile%20Visitors&color=38bdf8&style=for-the-badge" alt="Profile Visitors" />
 
 </div>
 
@@ -16,6 +16,7 @@ I build modern, responsive, and client-ready websites using **WordPress, Element
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge\&logo=vercel\&logoColor=0f172a)](https://wallege-umer-dev.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-A78BFA?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/myst_wallege/)
+[![GitHub](https://img.shields.io/badge/GitHub-wallegeumer-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/wallegeumer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](ADD-LINKEDIN-PROFILE-LINK-HERE)
 
 </div>
@@ -134,9 +135,9 @@ A modern dark-themed one-page portfolio built with clean UI, responsive sections
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=wallegeumer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=a78bfa&text_color=cbd5e1" alt="Wallege Umer GitHub Stats" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1" alt="Top Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallegeumer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1" alt="Wallege Umer Top Languages" />
 
 </div>
 
@@ -176,6 +177,8 @@ It should also be **clear, fast, responsive, easy to manage, and useful for the 
 [![Portfolio](https://img.shields.io/badge/Portfolio-wallege--umer--dev.vercel.app-38BDF8?style=for-the-badge\&logo=vercel\&logoColor=0f172a)](https://wallege-umer-dev.vercel.app/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-myst__wallege-A78BFA?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/myst_wallege/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-wallegeumer-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/wallegeumer)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Profile%20Link-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](ADD-LINKEDIN-PROFILE-LINK-HERE)
 
