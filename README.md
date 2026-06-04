@@ -1,128 +1,192 @@
-# Hi, I'm Wallege Umer 👋
+<div align="center">
 
-### WordPress Developer | Elementor Designer | Front-End Website Builder
+# 👋 Hi, I'm Wallege Umer
 
-I build clean, responsive, and professional websites using **WordPress, Elementor, HTML, CSS, JavaScript, WooCommerce, and modern plugin integrations**.
+### WordPress Developer • Elementor Designer • Front-End Website Builder
 
-My focus is simple:
-**create websites that look premium, work smoothly, and help businesses build trust online.**
+I build modern, responsive, and client-ready websites using **WordPress, Elementor, WooCommerce, HTML, CSS, JavaScript, and smart plugin integrations**.
 
----
+<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Visitors&color=38bdf8&style=for-the-badge" alt="Profile Visitors" />
 
-## 🚀 Portfolio
-
-🌐 **Live Portfolio:**
-[wallege-umer-dev.vercel.app](https://wallege-umer-dev.vercel.app/)
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-I am a WordPress developer with strong experience in building modern websites using Elementor, frontend code, and useful WordPress plugins.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge\&logo=vercel\&logoColor=0f172a)](https://wallege-umer-dev.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-A78BFA?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/myst_wallege/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](ADD-LINKEDIN-PROFILE-LINK-HERE)
 
-I can create:
-
-* Business websites
-* Portfolio websites
-* Landing pages
-* WooCommerce stores
-* Elementor websites
-* Responsive website fixes
-* Plugin setup and customization
-* Frontend UI improvements
-
-I enjoy turning simple ideas into clean, professional, and client-ready websites.
+</div>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🧑‍💻 About Me
 
-### Development
+I am a **WordPress Developer and Elementor Designer** focused on building clean, modern, and responsive websites for businesses, brands, portfolios, and online stores.
+
+My work is not only about creating good-looking pages. I focus on building websites that are:
+
+* Easy to understand
+* Clean in layout
+* Responsive on all devices
+* Simple for clients to manage
+* Professional enough to build trust
+* Structured for real business use
+
+I enjoy turning rough ideas into polished websites with strong spacing, clear typography, smooth sections, and practical user experience.
+
+---
+
+## 🚀 What I Do
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌐 WordPress Websites</h3>
+      <p>Modern WordPress websites for businesses, portfolios, service providers, and brands.</p>
+    </td>
+    <td width="50%">
+      <h3>🎨 Elementor Design</h3>
+      <p>Clean Elementor layouts with strong spacing, responsive sections, and polished UI.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🛒 WooCommerce Stores</h3>
+      <p>Product-focused online stores with clean shop pages and smooth buying flow.</p>
+    </td>
+    <td width="50%">
+      <h3>📱 Responsive Fixes</h3>
+      <p>Mobile, tablet, and desktop fixes for broken layouts, spacing, images, and sections.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚙️ Plugin Setup</h3>
+      <p>Forms, SEO tools, backups, security plugins, LMS plugins, and useful integrations.</p>
+    </td>
+    <td width="50%">
+      <h3>✨ Front-End Polish</h3>
+      <p>Custom HTML, CSS, JavaScript, hover effects, sliders, animations, and UI improvements.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Front-End
 
 ![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge\&logo=html5\&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge\&logo=css3\&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+
+### WordPress Workflow
+
 ![WordPress](https://img.shields.io/badge/WordPress-0f172a?style=for-the-badge\&logo=wordpress\&logoColor=21759B)
-
-### Website Builders & CMS
-
 ![Elementor](https://img.shields.io/badge/Elementor-0f172a?style=for-the-badge\&logo=elementor\&logoColor=92003B)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-0f172a?style=for-the-badge\&logo=woocommerce\&logoColor=96588A)
 
-### Workflow
+### Tools
 
+![VS Code](https://img.shields.io/badge/VS%20Code-0f172a?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
 ![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge\&logo=github\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge\&logo=vercel\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-0f172a?style=for-the-badge\&logo=googlechrome\&logoColor=4285F4)
+
+</div>
 
 ---
 
-## 💼 What I Build
+## 📌 Featured Project
 
-### WordPress Websites
+<div align="center">
 
-Clean and professional WordPress websites for businesses, brands, and personal portfolios.
+### Wallege Umer Developer Portfolio
 
-### Elementor Designs
+A modern dark-themed one-page portfolio built with clean UI, responsive sections, project showcase cards, smooth animations, and a working Web3Forms contact form.
 
-Modern Elementor layouts with strong spacing, responsive sections, and polished visual style.
+[![View Portfolio](https://img.shields.io/badge/View%20Live%20Portfolio-38BDF8?style=for-the-badge\&logo=vercel\&logoColor=0f172a)](https://wallege-umer-dev.vercel.app/)
 
-### WooCommerce Stores
-
-Product-focused online stores with clean shop pages, product layouts, and checkout-ready setup.
-
-### Responsive Fixes
-
-Mobile, tablet, and desktop layout fixes to make every section look clean on all screen sizes.
-
-### Front-End Customization
-
-Custom HTML, CSS, and JavaScript improvements for better UI, animations, and user experience.
+</div>
 
 ---
 
-## 📌 Featured Work
+## 🧩 Project Experience
 
-### Personal Portfolio
-
-A modern one-page portfolio website with clean UI, responsive sections, project cards, and smooth interactions.
-🔗 [View Project](https://wallege-umer-dev.vercel.app/)
+| Project Type            | What I Build                                                              |
+| ----------------------- | ------------------------------------------------------------------------- |
+| Business Website        | Clean service pages, strong sections, contact flow, and responsive layout |
+| Portfolio Website       | Personal branding, project cards, skill sections, and modern UI           |
+| Landing Page            | Focused message, CTA structure, sharp visuals, and clean conversion flow  |
+| WooCommerce Store       | Product pages, shop layout, category structure, and checkout setup        |
+| WordPress Fixes         | Layout issues, plugin setup, responsiveness, forms, and UI cleanup        |
+| Front-End Customization | HTML, CSS, JavaScript effects, hover states, and section polish           |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Wallege Umer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub Stats" />
 
-> Replace `YOUR-GITHUB-USERNAME` with your real GitHub username.
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🔥 Current Focus
+
+* Building stronger WordPress websites
+* Improving Elementor design workflow
+* Creating better responsive layouts
+* Learning advanced JavaScript interactions
+* Building clean and premium portfolio websites
+* Improving speed, UI quality, and user experience
+
+---
+
+## 🧠 My Development Approach
+
+```txt
+Understand the goal
+→ Plan the structure
+→ Design clean sections
+→ Build responsive layouts
+→ Test on all devices
+→ Polish the final experience
+```
+
+I believe a website should not only look good.
+It should also be **clear, fast, responsive, easy to manage, and useful for the client**.
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge\&logo=vercel\&logoColor=0f172a)](https://wallege-umer-dev.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-A78BFA?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/myst_wallege/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge\&logo=linkedin\&logoColor=0f172a)](ADD-LINKEDIN-PROFILE-LINK-HERE)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-wallege--umer--dev.vercel.app-38BDF8?style=for-the-badge\&logo=vercel\&logoColor=0f172a)](https://wallege-umer-dev.vercel.app/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-myst__wallege-A78BFA?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/myst_wallege/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Profile%20Link-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](ADD-LINKEDIN-PROFILE-LINK-HERE)
+
+</div>
 
 ---
 
-## ✨ Current Focus
+<div align="center">
 
-* Building better WordPress websites
-* Improving Elementor design workflow
-* Learning stronger JavaScript interactions
-* Creating clean and responsive user interfaces
-* Growing as a professional website developer
+### “Clean design, responsive structure, and client-ready websites.”
 
----
+Thanks for visiting my profile.
 
-## 💬 Quote
-
-> A good website is not only about design.
-> It should be clear, responsive, fast, and easy for clients to manage.
-
----
-
-### Thanks for visiting my profile 🚀
+</div>
